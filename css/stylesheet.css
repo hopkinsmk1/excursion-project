@@ -3,7 +3,9 @@ p {
   font-color: blue;
 }
 
-.img-test {
-  background: url ("../images/IMG_0865.jpg");
-  width: 1200px;
+.image {
+  background: url("../images/IMG_0865.jpg");
+  background: cover;
+  width: 300px;
+  height: 300px;
 }
