@@ -2,3 +2,8 @@ p {
   font-family: Helvetica;
   font-color: blue;
 }
+
+.img-test {
+  background: url ("../images/IMG_0865.jpg");
+  width: 1200px;
+}
